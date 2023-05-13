@@ -1,1 +1,1 @@
-const solution = (chicken) => parseInt((chicken - 1) / 9)
+const solution = (chicken) => parseInt((chicken - 1) / 9);
