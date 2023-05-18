@@ -1,4 +1,13 @@
 ## 코드
+``` javascript
+function solution() {
+	return
+}
+
+const solution = () = {
+	return
+}
+```
 
 ## 풀이 과정
 
