@@ -7,3 +7,4 @@ const solution = food => {
     //리턴할때 reverse()를 통해 문자열을 뒤집은 부분을 추가하여 처리한다.
     return temp+0+[...temp].reverse().join("");
 }
+// dev 테스트
