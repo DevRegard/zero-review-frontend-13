@@ -1,3 +1,12 @@
+---
+name: 이름-코드리뷰-문제
+about: Code Review for coding-test
+title: ''
+labels: Code Review
+assignees: ''
+
+---
+
 ## 코드
 ``` javascript
 function solution() {
