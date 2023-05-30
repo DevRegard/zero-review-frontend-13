@@ -25,9 +25,15 @@
 </details>
 
 ## 규칙
-- 문제 선정 기준
-- 리뷰자 (리뷰받는 사람)
-- 리뷰어 (리뷰하는 사람) 
+<details>
+  <summary><h3>문제 선정 기준</h3></summary>
+</details>
+<details>
+  <summary><h3>리뷰자 (리뷰받는 사람)</h3></summary>
+</details>
+<details>
+  <summary><h3>리뷰어 (리뷰하는 사람) </h3></summary>
+</details>
 
 ## 진행표
  
